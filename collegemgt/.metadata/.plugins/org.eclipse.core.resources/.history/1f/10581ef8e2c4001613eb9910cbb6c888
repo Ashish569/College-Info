@@ -1,0 +1,14 @@
+package snippet;
+
+public class Snippet {
+	public static void main(String[] args) {
+		/CollegeManagement
+		/CollegeManagement/src/colg
+		/CollegeManagement/src/collegemgt
+		/CollegeManagement/src/ECUtils
+		/CollegeManagement/src/images1
+		/CollegeManagement/src/main
+		/CollegeManagement/src/test
+	}
+}
+
